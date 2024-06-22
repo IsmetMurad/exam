@@ -1,1 +1,64 @@
 https://www.youtube.com/watch?v=zi3tKRp0fIY
+
+
+
+
+Question 1
+What is the output of the following code?
+
+
+print("Hello, World!")
+a) Hello, World!
+
+b) Hello World
+
+c) hello world
+
+d) Hello World!
+
+Question 2
+Which of the following is a valid variable name in Python?
+
+a) 1st_variable
+
+b) variable-1
+
+c) variable_1
+
+d) variable 1
+
+Question 3
+What is the correct way to create a function in Python?
+
+a) function myFunction():
+
+b) def myFunction:
+
+c) def myFunction():
+
+d) create myFunction():
+
+Question 4
+How do you insert COMMENTS in Python code?
+
+a) // This is a comment
+
+b) <!-- This is a comment -->
+
+c) # This is a comment
+
+d) ** This is a comment
+
+Question 5
+What is the output of the following code?
+
+x = 5
+y = "5"
+print(x + int(y))
+a) 10
+
+b) 55
+
+c) 5
+
+d) Error

@@ -23,3 +23,13 @@ body{
     box-shadow: 8px 10px 15px #9da4b0ff;
     transition-duration:1s ;
 }
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+}
+

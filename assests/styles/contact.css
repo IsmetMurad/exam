@@ -3,7 +3,10 @@ body{
     font-family: 'Poppins' , 'sans-serif';
     background-image: url("../hello.png");
     background-attachment: fixed;
+<<<<<<< HEAD
+=======
 
+>>>>>>> cd747bee95ebe8322f62cc579432bf3b06eaaaa7
     
 }
 .footer-text{

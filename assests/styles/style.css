@@ -4,3 +4,11 @@ body {
 body{
      font-family: 'Poppins' , 'sans-serif';
  }
+ .login:hover{
+     box-shadow: 8px 10px 15px #5c5c8aff;
+     transition-duration:1s ;
+}
+.signup:hover{
+ box-shadow: 8px 10px 15px #9da4b0ff;
+ transition-duration:1s ;
+}

@@ -1,4 +1,10 @@
 body{
     font-family: 'Poppins' , 'sans-serif';
     background-image: url("../hello.png");
+<<<<<<< HEAD
 }
+=======
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+>>>>>>> d5123d6df6fd257b76bafea66761303d2cbf7e77

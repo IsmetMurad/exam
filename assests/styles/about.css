@@ -1,0 +1,17 @@
+
+body {
+    background-image: url("../images/hello.png");
+}
+body{
+    font-family: 'Poppins' , 'sans-serif';
+    background-image: url("../hello.png");
+}
+.footer-text{
+    text-align-last:center ;
+}
+.footer-box{
+    transition: height 2s;
+}
+.footer-box:hover{
+    height:40vh;
+}

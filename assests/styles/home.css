@@ -1,8 +1,8 @@
 
-body {
-    background-image: url("../images/hello.png");
-}
+
 body{
     font-family: 'Poppins' , 'sans-serif';
     background-image: url("../hello.png");
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
